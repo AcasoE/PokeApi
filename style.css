@@ -1,0 +1,211 @@
+
+.lista{
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 0%;
+  padding: 0%;
+  
+}
+.input{
+  border-radius: 10px;
+}
+.input::placeholder{
+  color: #CC2026;
+  text-align: center;
+}
+.image{
+  width: 50%;
+  height: 50%;
+}
+.body{
+  background-image: url("https://static1.thegamerimages.com/wordpress/wp-content/uploads/2019/11/pokeballs-featured.jpg");
+  
+}
+.tipos{
+  font-size: xx-large;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-transform: uppercase;
+  font-style: oblique;
+  font-weight: 700;
+}
+.h1{
+    text-transform: uppercase;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .boton-todos{
+    background-color: white;
+    border-radius: 200px;
+    padding-left: 5%;
+    padding-right:5%;
+    align-items: center;
+  }
+  .card {
+    margin-bottom: 6%;
+    list-style: none;
+    padding: 20px;
+    background-color: #CC2026;
+    border-radius: 20px;
+    color: #000000;
+    text-align: center;
+    width: 300px;
+    height: 400px;
+    align-items: center;
+    border-color: rgb(255, 255, 255);
+    border-width: 0.7ch;
+  }
+  .card-title {
+    text-transform: uppercase;
+    font-size: 32px;
+    font-weight: normal;
+    margin-bottom: 0;
+  }
+  .card-subtitle {
+    font-weight: lighter;
+    color: #666;
+    margin-top: 5px;
+  }
+  .card-image {
+    height: 180px;
+    width: 180px;
+    padding: 20px;
+    border-color: #000000;
+    border-style: inset;
+    background-color: white;
+    border-radius:100%;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+  
+  .card-subtitle-size{
+    border-radius: 200px;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  .card-subtitle-shadow{
+    background-color: #060307;
+    border-radius: 200px;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  .card-subtitle-grass{
+    background-color: lime;
+    border-radius: 200px;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  .card-subtitle-normal{
+    background-color: lavender;
+    border-radius: 200px;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  .card-subtitle-fighting{
+    background-color: firebrick;
+    border-radius: 200px;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  .card-subtitle-flying{
+    background-color: #468cdb;
+    border-radius: 200px;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  .card-subtitle-poison{
+    background-color: mediumpurple;
+    border-radius: 200px;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+
+  .card-subtitle-ground{
+    background-color: burlywood;
+    border-radius: 200px;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  .card-subtitle-rock{
+    background-color: peru;
+    border-radius: 200px;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  .card-subtitle-bug{
+    background-color: yellowgreen;
+    border-radius: 200px;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  .card-subtitle-ghost{
+    background-color: purple;
+    border-radius: 200px;
+    padding-left: 5%;
+    padding-right: 5%;
+  }.card-subtitle-steel{
+    background-color:lightgrey;
+    border-radius: 200px;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  .card-subtitle-fire{
+    background-color: crimson;
+    border-radius: 200px;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  .card-subtitle-water{
+    background-color: royalblue;
+    border-radius: 200px;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  .card-subtitle-dragon{
+    background-color: mediumslateblue;
+    border-radius: 200px;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  .card-subtitle-dragon{
+    background-color: yellow;
+    border-radius: 200px;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  .card-subtitle-ice{
+    background-color: aquamarine;
+    border-radius: 200px;
+    padding-left: 5%;
+    padding-right: 5%;}
+  .card-subtitle-fairy{
+    background-color:rgb(255, 136, 238);
+    border-radius: 200px;
+    padding-left: 5%;
+    padding-right: 5%;}
+  .card-subtitle-psychic{
+    background-color:violet;
+    border-radius: 200px;
+    padding-left: 5%;
+    padding-right: 5%;}
+  .card-subtitle-dark{
+    background-color:SlateGray;
+    border-radius: 200px;
+    padding-left: 5%;
+    padding-right: 5%;}
+  .card-subtitle-shadow{
+    background-color:#000000 ;
+    border-radius: 200px;
+    padding-left: 5%;
+    padding-right: 5%;}
+  .card-subtitle-uknown{
+    background-color:#F04078;
+    border-radius: 200px;
+    padding-left: 5%;
+    padding-right: 5%;}
+  .card-subtitle-electric{
+    background-color:yellow;
+    border-radius: 200px;
+    padding-left: 5%;
+    padding-right: 5%;}
